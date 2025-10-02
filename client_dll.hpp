@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-26 21:47:59.068015 UTC
+// 2025-10-02 00:10:09.084951300 UTC
 
 #pragma once
 
